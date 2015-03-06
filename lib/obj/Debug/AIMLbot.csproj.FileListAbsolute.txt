@@ -1,0 +1,5 @@
+E:\github\aimlSharp\lib\bin\Debug\AIMLbot.dll
+E:\github\aimlSharp\lib\bin\Debug\AIMLbot.pdb
+E:\github\aimlSharp\lib\obj\Debug\AIMLbot.csprojResolveAssemblyReference.cache
+E:\github\aimlSharp\lib\obj\Debug\AIMLbot.dll
+E:\github\aimlSharp\lib\obj\Debug\AIMLbot.pdb
